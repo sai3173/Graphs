@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Disable scrolling */
+  height: 100%; /* Ensure full viewport coverage */
+}
+
+#root {
+  height: 100%; /* Ensure your React app container spans the viewport */
+}
