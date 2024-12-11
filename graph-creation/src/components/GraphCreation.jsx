@@ -219,7 +219,7 @@ const GraphCreation = () => {
           background: "none",
           
           
-          borderRadius: "0px",
+          borderRadius: "10px",
          boxshadow:"0px 4px 10px rgba(0, 0, 0, 0.3)",
           backgroundColor: "",
           zIndex: 1,
